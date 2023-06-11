@@ -26,7 +26,9 @@ To develop a model that takes attendance from a group image of a class, identifi
 
 # Input 
 
-|![5](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/e305a3ee-3260-449c-b4e2-83783f1fc4d4 ) | ![1(1)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/f7203c89-6d9e-40f3-b8b6-a1d8522f7efe) |
+![5](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/066817eb-6631-4974-8623-23027c645bdc)
+![1(1)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/f7203c89-6d9e-40f3-b8b6-a1d8522f7efe) 
+
 
 
 
