@@ -34,9 +34,9 @@ To develop a model that takes attendance from a group image of a class, identifi
 
 # Output 
 
-| ![image (1)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/5e641288-5e08-432e-8b4c-60d516cbe85a)  | ![image (4)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/c2a83643-990b-4662-9f34-ed5644f07487) |
+ ![image (1)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/5e641288-5e08-432e-8b4c-60d516cbe85a)   ![image (4)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/c2a83643-990b-4662-9f34-ed5644f07487) 
 
-| ![image (2)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/e77c70ba-8692-4858-afa4-5c88fb992efe) | ![image (3)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/73693e13-d852-4073-a277-b2870ac8daa6) |
+ ![image (2)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/e77c70ba-8692-4858-afa4-5c88fb992efe)  ![image (3)](https://github.com/sumedhsp04/Automated-Attendance-System-using-Computer-Vision/assets/54770758/73693e13-d852-4073-a277-b2870ac8daa6) 
 
 
 
